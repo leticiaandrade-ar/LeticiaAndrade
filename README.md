@@ -1,3 +1,3 @@
 # LeticiaAndrade
 Meu repositório pessoal.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,html,css,postgres,mongodb)](https://skillicons.dev)
