@@ -3,3 +3,6 @@
 
 ## Stacks (⚙️ in the process...)
 [![My Skills](https://skillicons.dev/icons?i=py,mongodb,postgres,git)](https://skillicons.dev)
+
+## Redes
+[![My Skills](https://skillicons.dev/icons?i=instagram)]([https://skillicons.dev](https://www.instagram.com/leandrde_/))
