@@ -1,5 +1,5 @@
-# 👩🏻‍💻 Dev Backend
-(3/3) curso técnico em informática, fissurada por ler e pelo mundo da tecnologia.
+# 👩🏻‍💻 Backend Developer
+(3/3) Curso téc. em informática, fissurada por literatura e conversar sobre softwares.
 
-## Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,postgres)](https://skillicons.dev)
+## Stacks (processo...)
+[![My Skills](https://skillicons.dev/icons?i=py,mongodb,postgres,git)](https://skillicons.dev)
