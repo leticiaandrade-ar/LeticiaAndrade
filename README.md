@@ -4,5 +4,3 @@
 ## Stacks (⚙️ in the process...)
 [![My Skills](https://skillicons.dev/icons?i=py,java,mongodb,postgres,git)](https://skillicons.dev)
 
-## Redes
-[![My Skills](https://skillicons.dev/icons?i=instagram)]([https://www.instagram.com/leandrde_/])
