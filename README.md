@@ -1,4 +1,4 @@
-# Letícia Andrade
+# Ana Letícia Rodrigues Andrade
 
 ## 👩🏻‍💻 Backend Developer
 (3/3) computer technician, passionate about running, literature, fashion, coding and software development. I always like to learn new technologies and improve my knowledge.
